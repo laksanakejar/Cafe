@@ -1,0 +1,190 @@
+#header {
+  transition: all 1.5s;
+  z-index: 997;
+  transition: all 1.5s;
+  padding: 0px;
+}
+
+
+.navbar-brand{
+  color: #5d0bf7;
+  font-family: Germania One;
+  font-size: 30px;
+}
+
+
+.promo1{
+    background-color: rgb(247, 217, 19);
+    height: 300px;
+}
+.img1{
+    height: 200px;
+}
+.img2{
+    height: 100px;
+    margin-top: -240px;
+    margin-left: 280px;
+}
+
+.lad-menu img:hover {
+  scale: 1.1;
+}
+
+.img3{
+    height: 150px;
+    margin-top: -90px;
+    margin-left: 300px;
+}
+.img4{
+    height: 150px;
+    margin-top: -120px;
+    margin-left: 300px;
+}
+.promo{
+    padding-left: 50px;
+    padding-top: 50px;
+    
+}
+
+
+
+.promo2{
+    background-color: rgb(11, 151, 41);
+    height: 300px;
+}
+.grab{
+    height: 100px;
+    padding-top: 70px;
+}
+.gojek{
+    height: 100px;
+    padding-top: 10px;
+}
+.shope{
+    height: 100px;
+    padding-top: 10px;
+    margin-left: 100px;
+}
+/* end promo1 */
+.category{
+    background-color: rgb(230, 175, 10);
+    height: 200px;
+}
+/* end category */
+.contak img:hover {
+ scale: 1.1;
+}
+
+.footer-logo{
+    height: 200px;
+  
+}
+.smk-logo{
+    height: 70px;
+}
+.ig-logo{
+    height: 50px;
+}
+.fb-logo{
+    height: 70px;
+}
+.tiktok-logo{
+    height: 60px;
+}
+.footer-about a{
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+/* end footer */
+.container-cart {
+    max-width: 600px;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid #ddd;
+    font-family: Arial, sans-serif;
+  }
+  
+  h2 {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .product {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+  }
+  
+  .cart1 {
+    width: 150px;
+    height: 150px;
+    margin-right: 20px;
+  }
+  
+  .product-details h3 {
+    margin: 0;
+    margin-bottom: 5px;
+  }
+  
+  .product-details p {
+    margin: 0;
+    margin-bottom: 10px;
+  }
+  
+  .payment h3 {
+    margin-top: 0;
+    margin-bottom: 20px;
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+  }
+  
+  table td {
+    padding: 10px 0;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  table td:first-child {
+    width: 70%;
+  }
+
+  .button-cont button {
+    display: block;
+    margin: 20px 35%;
+    padding: 10px 20px;
+    background-color: #ff5722;
+    color: #fff;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: bold;
+    width: 30%;
+  }
+
+  .btn-cont {
+    margin-top: -45px;
+    margin-left: 430px;
+    background-color: #66f309;
+    border: none;
+    border-radius: 3px;
+    color: #fff;
+    font-size: 16px;
+    font-weight: bold;
+    padding: 10px 20px;
+  
+  }
+
+.icon i {
+  font-size: 100px;
+  text-decoration: none;
+  color: #000;
+}
+/* end */
+.cd {
+  box-shadow: 10px;
+}
